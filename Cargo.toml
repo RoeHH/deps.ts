@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 walkdir = "2"
+is-url = "1.0.4"
